@@ -1,4 +1,4 @@
- abrir git bash
+ 
  cd desktop  (llevarlo al escritorio)
  mkdir (para escrar una carpeta)
  dir (para confirma la ubicacion que me encuentro)
